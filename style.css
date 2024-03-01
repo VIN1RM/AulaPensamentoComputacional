@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(215, 255, 255);
+    width: 500px;
+    height: 500px;
+    border-radius: 500%;
+    margin-left: 400px;
+}
+
+.badge-header img {
+    width: 490px;
+    height: 500px;
+    border-radius: 250px;
+    margin-left: -120px;
+}
